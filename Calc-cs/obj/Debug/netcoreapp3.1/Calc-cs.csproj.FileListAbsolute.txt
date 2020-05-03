@@ -1,0 +1,17 @@
+F:\RiderProjects\Calc-cs\Calc-cs\bin\Debug\netcoreapp3.1\Calc-cs.exe
+F:\RiderProjects\Calc-cs\Calc-cs\bin\Debug\netcoreapp3.1\Calc-cs.deps.json
+F:\RiderProjects\Calc-cs\Calc-cs\bin\Debug\netcoreapp3.1\Calc-cs.runtimeconfig.json
+F:\RiderProjects\Calc-cs\Calc-cs\bin\Debug\netcoreapp3.1\Calc-cs.runtimeconfig.dev.json
+F:\RiderProjects\Calc-cs\Calc-cs\bin\Debug\netcoreapp3.1\Calc-cs.dll
+F:\RiderProjects\Calc-cs\Calc-cs\bin\Debug\netcoreapp3.1\Calc-cs.pdb
+F:\RiderProjects\Calc-cs\Calc-cs\obj\Debug\netcoreapp3.1\Calc-cs.csprojAssemblyReference.cache
+F:\RiderProjects\Calc-cs\Calc-cs\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+F:\RiderProjects\Calc-cs\Calc-cs\obj\Debug\netcoreapp3.1\App.g.cs
+F:\RiderProjects\Calc-cs\Calc-cs\obj\Debug\netcoreapp3.1\Calc-cs_MarkupCompile.cache
+F:\RiderProjects\Calc-cs\Calc-cs\obj\Debug\netcoreapp3.1\Calc-cs_MarkupCompile.lref
+F:\RiderProjects\Calc-cs\Calc-cs\obj\Debug\netcoreapp3.1\MainWindow.baml
+F:\RiderProjects\Calc-cs\Calc-cs\obj\Debug\netcoreapp3.1\Calc-cs.g.resources
+F:\RiderProjects\Calc-cs\Calc-cs\obj\Debug\netcoreapp3.1\Calc-cs.AssemblyInfoInputs.cache
+F:\RiderProjects\Calc-cs\Calc-cs\obj\Debug\netcoreapp3.1\Calc-cs.AssemblyInfo.cs
+F:\RiderProjects\Calc-cs\Calc-cs\obj\Debug\netcoreapp3.1\Calc-cs.dll
+F:\RiderProjects\Calc-cs\Calc-cs\obj\Debug\netcoreapp3.1\Calc-cs.pdb
